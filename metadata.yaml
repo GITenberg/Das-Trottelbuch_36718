@@ -1,0 +1,29 @@
+_repo: Das-Trottelbuch_36718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36718-h/images/cover_small.jpg
+creator:
+  author:
+    agent_name: Jung, Franz
+    birthdate: 1888
+    deathdate: 1963
+    gutenberg_agent_id: '38440'
+    url: http://www.gutenberg.org/2009/agents/38440
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36718'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+tableOfContents: Trottel. Eine programmatische Einleitung -- Der Weg über den Berg
+  -- Die Erlebnisse der Emma Schnalke -- Der tolle Nikolaus.
+title: Das Trottelbuch
+url: http://www.gutenberg.org/ebooks/36718
